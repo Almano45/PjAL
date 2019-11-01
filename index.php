@@ -11,6 +11,7 @@
 	<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=true"></script>
 		
  	<!-- essai avec la cle google maps mais marche po
+ 		la cléé API googlemap est : AIzaSyB-TsKOQIlzj6cdwMB8RfLsRdR51ojeFKM
 	  <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB-TsKOQIlzj6cdwMB8RfLsRdR51ojeFKM&callback=initMap"
   		type="text/javascript"></script>
 	-->
